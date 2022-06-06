@@ -1,4 +1,4 @@
-# pitcher: propose and discuss projects for Epiverse <img src="figures/pitcher_hex.png" align="right" width="120" />
+# pitcher: propose and discuss *epiverse* projects <img src="figures/pitcher_hex.png" align="right" width="120" />
 
 <br>
 
