@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# <project-name>: <project-title>
+# <*project-name*>: <*project-title*>
 
 ## Description
 
