@@ -1,5 +1,7 @@
 # pitcher: propose and discuss projects for Epiverse <img src="figures/pitcher_hex.png" align="right" width="120" />
 
+<br>
+
 This repository is used to propose and discuss new projects for *Epiverse*. Each project has its own, dedicated issue, using a simple template to outline what the project is about. 
 
 
