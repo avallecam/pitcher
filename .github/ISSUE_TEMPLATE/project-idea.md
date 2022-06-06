@@ -13,11 +13,17 @@ assignees: ''
 
 Describe the project in a few sentences, using non-technical terms as much as possible.
 
+
+
 ## Target audience
 
 * typical end-users: <*Who do you think this project will be useful to?*>
+
 * potential contributors: <*Do you already know people, or generic profiles of people who might contribute to developing the project?*>
+
 * key collaborators: <*Are there any key partners or institutions already identified, who will need to input on this project?*>
+
+
 
 ## Usage
 
