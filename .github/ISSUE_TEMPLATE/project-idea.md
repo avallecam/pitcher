@@ -24,6 +24,27 @@ Describe the project in a few sentences, using non-technical terms as much as po
 * key collaborators: <*Are there any key partners or institutions already identified, who will need to input on this project?*>
 
 
+## Interoperability
+
+* inputs: <*Typical data used as inputs.*>
+
+* outputs: <*Typical output created by the package.*>
+
+* imports:
+    * <*first package it could import data from*>
+    * <*secon package it could import data from*>
+    * ...
+
+* used by:
+    * <*first package it could export data to*>
+    * <*secon package it could export data to*>
+    * ...
+
+* related projects
+    * <*a package doing related things *>
+    * <*another package doing related things *>
+    * ...
+
 
 ## Usage
 
